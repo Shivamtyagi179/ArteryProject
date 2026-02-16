@@ -1,0 +1,7 @@
+{
+  "provider": "google_neural_tts",
+  "voice_gender": "female",
+  "language": "hi-IN",
+  "speaking_rate": 1.0,
+  "volume_gain_db": 0.0
+}
